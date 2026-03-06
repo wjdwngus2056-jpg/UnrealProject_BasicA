@@ -153,6 +153,11 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Content
+Content/Collections/
+Content/Developers/
+Content/StarterContent/
+
 ### UnrealEngine Patch ###
 # Don't ignore icon and splash images for mobile app
 !Build/IOS/Resources/
